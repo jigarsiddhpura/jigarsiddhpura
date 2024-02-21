@@ -1,32 +1,68 @@
 <h1 align="center">Hi 👋, I'm Jigar Siddhpura</h1>
-<h3 align="center">A passionate web & ML developer </h3>
+<h3 align="center">To be a Data Science Engineer from India </h3>
+
+<hr />
+
+<img alt="GIF" align="right" height="230" width="450" src="https://64.media.tumblr.com/c77b1dc41744f8ba52e3454083ed6939/tumblr_puzd03ZuDY1t1yvcko1_540.gif">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=jigarsiddhpura&label=Profile%20views&color=0e75b6&style=flat" alt="jigarsiddhpura" /> </p>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=jigarsiddhpura" alt="jigarsiddhpura" /></a> </p>
+<!-- <img src="https://user-images.githubusercontent.com/74038190/221352989-518609ab-b4d1-459e-929f-a08cd2bd9b3c.gif" width="400"  align="right"> -->
 
-- 🌱 I’m currently learning **Machine Learning, Web Development**
+- 🌱 I’m currently working on **Machine Learning, Data Science & DSA**
 
-- 👯 I’m looking to collaborate on **AI/ML projects**
-
-- 🤝 I’m looking for help with **internships**
+- 👯 I’m looking to collaborate on _End-to-End WEB + ML Project_
 
 - 👨‍💻 All of my projects are available at [https://github.com/jigarsiddhpura](https://github.com/jigarsiddhpura)
 
 - 📫 How to reach me **jigarssiddhpura@gmail.com**
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://linkedin.com/in/jigar siddhpura" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="jigar siddhpura" height="30" width="40" /></a>
-<a href="https://instagram.com/jigar_sidd" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="jigar_sidd" height="30" width="40" /></a>
+- 🏔️ Like _trekking_ 
+
+<hr />
+
+<!-- <img alt="GIF" height="200" align="left" src="https://c.tenor.com/XrQe1tqGe6MAAAAC/hx-h-hunter-x-hunter.gif"> -->
+<img src="https://github.com/Anmol-Baranwal/Cool-GIFs-For-GitHub/assets/74038190/4aba8602-6a81-4772-af1f-f593ee6c389f" width="300" align="left">
+
+<div align="center">
+<br />
+<h3>Connect with me:</h3>
+<p>
+<a href="https://twitter.com/laughingzoro/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="codingmickey" height="30" width="40" /></a>&nbsp;&nbsp;&nbsp;
+<a href="https://instagram.com/jigar.siddhpura/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="codingmickey" height="30" width="40" /></a>&nbsp;&nbsp;&nbsp;
+  <a href="https://linkedin.com/in/jigar siddhpura" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="jigar siddhpura" height="30" width="40" /></a>&nbsp;&nbsp;&nbsp;
+<a href="https://leetcode.com/jigarsiddhpura" target="blank"><img align="center" src="https://upload.wikimedia.org/wikipedia/commons/thumb/a/ab/LeetCode_logo_white_no_text.svg/867px-LeetCode_logo_white_no_text.svg.png" alt="codingmickey" height="30" width="25" /></a>
 </p>
+</div>
+
+<br /><br /><br />
+<hr />
+
+
 
 <h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://getbootstrap.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="40"/> </a> <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://pandas.pydata.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/2ae2a900d2f041da66e950e4d48052658d850630/icons/pandas/pandas-original.svg" alt="pandas" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a>
-<a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> <a href="https://redux.js.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redux/redux-original.svg" alt="redux" width="40" height="40"/> </a> <a href="https://tailwindcss.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="tailwind" width="40" height="40"/> </a> <a href="https://www.tensorflow.org" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/tensorflow/tensorflow-icon.svg" alt="tensorflow" width="40" height="40"/> </a> </p>
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=jigarsiddhpura&show_icons=true&locale=en&layout=compact" alt="jigarsiddhpura" /></p>
+<img src="https://user-images.githubusercontent.com/74038190/225813708-98b745f2-7d22-48cf-9150-083f1b00d6c9.gif" width="500" align="right" >
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=jigarsiddhpura&show_icons=true&locale=en" alt="jigarsiddhpura" /></p>
+[![My Skills](https://skillicons.dev/icons?i=html,css,js,react,bootstrap,tailwind,c,git,github,heroku,java,materialui,mysql,py,react,redux,tensorflow,pytorch,anaconda,sqlite,opencv,netlify,flask,fastapi&perline=5)](https://skillicons.dev)
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=jigarsiddhpura&" alt="jigarsiddhpura" /></p>
+<hr />
+
+<p align="center">
+  <a href="https://github.com/jigarsiddhpura/github-readme-stats">
+    <img src="https://github-readme-stats.vercel.app/api?username=jigarsiddhpura&show_icons=true&bg_color=0d1117&text_color=40cfcd&border_color=444" height="165">
+  </a>
+  <a href="https://github.com/jigarsiddhpura/github-readme-stats">
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=jigarsiddhpura&layout=compact&bg_color=0d1117&text_color=40cfcd&border_color=444"  height="165">
+  </a>
+<div align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=jigarsiddhpura&column=6&theme=onedark" align="center"/>
+</div>
+
+<h1 align="center"> 🔥 Contributions: </h1>
+<p align="center">
+ <a href="https://git.io/streak-stats" align="middle">
+    <img src="http://github-readme-streak-stats.herokuapp.com?user=jigarsiddhpura&theme=react&background=0d1117&border=666">
+  </a>
+  <br>
+</p>
