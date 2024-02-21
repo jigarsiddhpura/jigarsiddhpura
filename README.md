@@ -44,7 +44,7 @@
 
 <img src="https://user-images.githubusercontent.com/74038190/225813708-98b745f2-7d22-48cf-9150-083f1b00d6c9.gif" width="500" align="right" >
 
-[![My Skills](https://skillicons.dev/icons?i=html,css,js,react,bootstrap,tailwind,c,git,github,heroku,java,materialui,mysql,py,react,redux,tensorflow,pytorch,anaconda,sqlite,opencv,netlify,flask,fastapi&perline=5)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=html,css,js,react,bootstrap,tailwind,c,git,github,heroku,java,materialui,mysql,py,react,redux,tensorflow,pytorch,anaconda,sqlite,opencv,netlify,flask,fastapi,postman&perline=5)](https://skillicons.dev)
 
 <hr />
 
