@@ -3,9 +3,9 @@
 
 <hr />
 
-<img alt="GIF" align="right" height="230" width="430" src="https://64.media.tumblr.com/c77b1dc41744f8ba52e3454083ed6939/tumblr_puzd03ZuDY1t1yvcko1_540.gif">
+<img alt="GIF" align="right" height="230" width="400" src="https://64.media.tumblr.com/c77b1dc41744f8ba52e3454083ed6939/tumblr_puzd03ZuDY1t1yvcko1_540.gif">
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=jigarsiddhpura&label=Profile%20views&color=0e75b6&style=flat" alt="jigarsiddhpura" /> </p>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=jigarsiddhpura&label=Profile%20views&color=0e75b6&style=flat" alt="jigarsiddhpura" /> 
 
 <!-- <img src="https://user-images.githubusercontent.com/74038190/221352989-518609ab-b4d1-459e-929f-a08cd2bd9b3c.gif" width="400"  align="right"> -->
 
@@ -17,7 +17,9 @@
 
 - 📫 How to reach me **jigarssiddhpura@gmail.com**
 
-- 🏔️ Like _trekking_ 
+- 🏔️ Like _trekking_
+
+</p>
 
 <hr />
 
