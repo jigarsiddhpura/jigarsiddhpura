@@ -3,7 +3,7 @@
 
 <hr />
 
-<img alt="GIF" align="right" height="230" width="450" src="https://64.media.tumblr.com/c77b1dc41744f8ba52e3454083ed6939/tumblr_puzd03ZuDY1t1yvcko1_540.gif">
+<img alt="GIF" align="right" height="230" width="430" src="https://64.media.tumblr.com/c77b1dc41744f8ba52e3454083ed6939/tumblr_puzd03ZuDY1t1yvcko1_540.gif">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=jigarsiddhpura&label=Profile%20views&color=0e75b6&style=flat" alt="jigarsiddhpura" /> </p>
 
@@ -30,7 +30,7 @@
 <p>
 <a href="https://twitter.com/laughingzoro/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="codingmickey" height="30" width="40" /></a>&nbsp;&nbsp;&nbsp;
 <a href="https://instagram.com/jigar.siddhpura/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="codingmickey" height="30" width="40" /></a>&nbsp;&nbsp;&nbsp;
-  <a href="https://linkedin.com/in/jigar siddhpura" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="jigar siddhpura" height="30" width="40" /></a>&nbsp;&nbsp;&nbsp;
+<a href="https://www.linkedin.com/in/jigar-siddhpura/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="jigar siddhpura" height="30" width="40" /></a>&nbsp;&nbsp;&nbsp;
 <a href="https://leetcode.com/jigarsiddhpura" target="blank"><img align="center" src="https://upload.wikimedia.org/wikipedia/commons/thumb/a/ab/LeetCode_logo_white_no_text.svg/867px-LeetCode_logo_white_no_text.svg.png" alt="codingmickey" height="30" width="25" /></a>
 </p>
 </div>
