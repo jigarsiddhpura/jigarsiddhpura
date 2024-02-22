@@ -3,7 +3,7 @@
 
 <hr />
 
-<img alt="GIF" align="right" height="230" width="400" src="https://64.media.tumblr.com/c77b1dc41744f8ba52e3454083ed6939/tumblr_puzd03ZuDY1t1yvcko1_540.gif">
+<img alt="GIF" align="right" height="180" width="350" src="https://64.media.tumblr.com/c77b1dc41744f8ba52e3454083ed6939/tumblr_puzd03ZuDY1t1yvcko1_540.gif">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=jigarsiddhpura&label=Profile%20views&color=0e75b6&style=flat" alt="jigarsiddhpura" /> 
 
