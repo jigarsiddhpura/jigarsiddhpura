@@ -1,3 +1,7 @@
+
+![Lofi-Computer](https://github.com/jigarsiddhpura/jigarsiddhpura/assets/95428432/fb83e4b4-7c9f-4eb9-91a2-5daa9a4aff17)
+
+
 <h1 align="center">Hi 👋, I'm Jigar Siddhpura</h1>
 <h3 align="center">To be a Data Science Engineer from India </h3>
 
