@@ -3,7 +3,7 @@
 
 
 <h1 align="center">Hi 👋, I'm Jigar Siddhpura</h1>
-<h3 align="center">To be a Data Science Engineer from India </h3>
+<h3 align="center">To be a Software Engineer from India </h3>
 
 <hr />
 
