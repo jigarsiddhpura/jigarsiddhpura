@@ -13,15 +13,15 @@
 
 <!-- <img src="https://user-images.githubusercontent.com/74038190/221352989-518609ab-b4d1-459e-929f-a08cd2bd9b3c.gif" width="400"  align="right"> -->
 
-- 🌱 I’m currently working on **Spring Boot & DSA**
+- 🌱 I’m currently learning on **Spring**
 
-- 👯 I’m looking to collaborate on _End-to-End WEB + ML Project_
+- 👯 I’m looking to collaborate on _solving problems_
 
 - 👨‍💻 All of my projects are available at [https://github.com/jigarsiddhpura](https://github.com/jigarsiddhpura)
 
 - 📫 How to reach me **jigarssiddhpura@gmail.com**
 
-- 🏔️ Like _trekking_
+- 🏔️ Like _trekking_ & _anime_
 
 </p>
 
